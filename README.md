@@ -7,5 +7,5 @@ I expect to learn how to design and develop applications efficiently using moder
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [[here, insert link to your github profile]](https://github.com/weiiiiying)
+You can view my personalized GitHub profile [[here]](https://github.com/weiiiiying)
 
