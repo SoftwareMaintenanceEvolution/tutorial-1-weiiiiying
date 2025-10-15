@@ -3,7 +3,7 @@
 Hi! I'm Wei Ying, a student in the Framework-Based Software Design and Development course. 
 I expect to learn how to design and develop applications efficiently using modern frameworks, apply best practices in software architecture, and build scalable, maintainable systems.
 
-![My Image]([image.jpg](https://www.reddit.com/r/plushies/comments/1cgpm0m/dundun_chicken/))  <!-- Link to the uploaded image -->
+![My Image][([image.jpg](https://www.reddit.com/r/plushies/comments/1cgpm0m/dundun_chicken/))](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-weiiiiying/blob/profile-upload/DunDun%20Chicken.jpg)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
